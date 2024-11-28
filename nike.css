@@ -1,0 +1,107 @@
+.nav {
+  width: 100vw;
+  height: 0px;
+  padding-left: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.logoDiv {
+  width: 50px;
+  height: 50px;
+  margin-left: 50px;
+}
+.logo {
+  width: 100%;
+  height: 100%;
+  margin-top: 35px;
+  margin-left: 15px;
+}
+.nike {
+  width: 80%;
+  height: 95vh;
+  padding: 20px;
+  margin-left: 40px;
+  margin-top: 0;
+}
+.picture {
+  width: 100%;
+  height: 100%;
+
+  margin-left: 105px;
+  margin-top: 20px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3px;
+  margin-left: 50px;
+  font-size: xx-large;
+}
+.storeButton {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+.store {
+  width: 130px;
+  height: 33px;
+  border: 1px solid black;
+  font-size: large;
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+}
+.Air {
+  width: 95vw;
+  height: 100vh;
+
+  margin: 50px;
+}
+.AirPic {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  height: 98%;
+  margin: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 90px;
+
+  margin-left: 50px;
+  width: 95vw;
+  height: 100vh;
+}
+.firstimg {
+  width: 90%;
+}
+.secondimg {
+  width: 90%;
+}
+.image {
+  width: 100%;
+  height: 100%;
+}
+button {
+  width: 140px;
+  height: 35px;
+  border-radius: 30px;
+  color: white;
+  background-color: black;
+  border: 2px solid black;
+  cursor: pointer;
+}
+footer {
+  margin-top: 80px;
+  margin-left: 60px;
+}
+.line {
+  margin-top: 300px;
+}
+.footer {
+  display: flex;
+  gap: 250px;
+}
